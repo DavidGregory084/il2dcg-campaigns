@@ -1,0 +1,6 @@
+[Tobruk]               
+  Load=Tobruk/load.ini
+  MapAxis=West
+  AlliedID=4
+  AxisID=10
+  Description=Kurland
