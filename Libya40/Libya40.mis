@@ -46,6 +46,11 @@
   Searchlight 1800
 [NStationary]
   0_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 272619.77 106014.67 600.00 0.0 0 1 1
+  1_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 272088.07 106232.19 585.00 0.0 0 1 1
+  2_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 273610.08 106880.85 600.00 0.0 0 1 1
+  5_Static vehicles.stationary.Stationary$ZIS6_fuel 1 272700.02 105912.81 540.00 0.0
+  4_Static vehicles.stationary.Stationary$ZIS6_fuel 1 273257.18 106241.32 510.00 0.0
+  3_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 273827.63 106420.89 420.00 0.0 0 1 1
 [Buildings]
   0_bld Plate$Pac_SandHardstandLarge 1 272503.95 105911.61 400.00
   1_bld Plate$Pac_SandHardstandLarge 1 272532.07 105842.32 555.00
@@ -61,5 +66,20 @@
   11_bld House$FurnitureSandbags_Round 1 272619.07 106015.91 430.00
   12_bld Plate$Pac_SandHardstandLarge 1 273046.62 105999.85 510.00
   13_bld House$Control_tower 1 272806.41 105957.83 420.00
+  14_bld House$FurnitureSandbags_Round 1 272087.07 106232.71 400.00
+  15_bld House$FurnitureSandbags_Round 1 273609.38 106882.09 430.00
+  16_bld House$FurnitureSandbags_Round 1 273828.45 106420.08 595.00
+  17_bld House$Tent_Pup_US 1 272808.06 105939.10 420.00
+  18_bld House$Tent_Pup_US 1 272812.04 105941.65 420.00
+  19_bld House$Tent_Pup_US 1 272816.38 105943.70 420.00
+  20_bld House$Tent_Pup_US 1 272820.07 105946.40 420.00
+  21_bld House$Tent_Pup_US 1 272823.70 105948.68 420.00
+  22_bld House$Tent_Pyramid_US 1 272800.67 105940.59 690.00
+  23_bld House$Tent_HQ_US 1 272828.52 105951.11 600.00
+  24_bld House$AirdromeBarrack 1 272830.17 105970.42 690.00
+  25_bld House$KitchenRU 1 272831.71 105961.68 510.00
+  26_bld House$FTankS_03 1 272868.53 106015.68 510.00
+  27_bld House$FTankS_03 1 272874.15 106006.37 510.00
+  28_bld House$FTankS_03 1 272879.60 105997.23 510.00
 [Bridge]
 [House]
