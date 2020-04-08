@@ -3,7 +3,7 @@
   TIME 12.0
   CloudType 0
   CloudHeight 1000.0
-  army 1
+  army 2
   playerNum 0
 [SEASON]
   Year 1940
@@ -44,23 +44,202 @@
   Aeroanchored 1800
   Artillery 1800
   Searchlight 1800
+[Wing]
+  11Squadriglia00
+  13Squadriglia00
+  146Squadriglia00
+  159Squadriglia01
+  92Squadriglia00
+  93Squadriglia00
+  RAF_No033SQN00
+  RAF_No112SQN00
+  30thSqn00
+  113Squadron00
+  RAF_No073SQN00
+[11Squadriglia00]
+  Planes 1
+  Skill 1
+  Class air.SM79i
+  Fuel 100
+  weapons default
+[11Squadriglia00_Way]
+  NORMFLY 4718.66 237483.51 500.00 300.00 &0
+  NORMFLY 17875.61 237549.23 500.00 300.00 &0
+[13Squadriglia00]
+  Planes 1
+  Skill 1
+  Class air.SM79i
+  Fuel 100
+  weapons default
+[13Squadriglia00_Way]
+  NORMFLY 4899.54 241096.10 500.00 300.00 &0
+  NORMFLY 18143.26 241195.27 500.00 300.00 &0
+[146Squadriglia00]
+  Planes 1
+  Skill 1
+  Class air.CantZ506B
+  Fuel 100
+  weapons default
+[146Squadriglia00_Way]
+  NORMFLY 50694.64 202990.24 500.00 300.00 &0
+  NORMFLY 61956.27 203117.71 500.00 300.00 &0
+[159Squadriglia01]
+  Planes 1
+  Skill 1
+  Class air.R_10
+  Fuel 100
+  weapons default
+[159Squadriglia01_Way]
+  NORMFLY 125146.57 140539.05 500.00 300.00 &0
+  NORMFLY 138016.64 140775.28 500.00 300.00 &0
+[92Squadriglia00]
+  Planes 1
+  Skill 1
+  Class air.CR_42
+  Fuel 100
+  weapons default
+[92Squadriglia00_Way]
+  NORMFLY 125081.23 137427.87 500.00 300.00 &0
+  NORMFLY 137788.13 137383.75 500.00 300.00 &0
+[93Squadriglia00]
+  Planes 1
+  Skill 1
+  Class air.CR_42
+  Fuel 100
+  weapons default
+[93Squadriglia00_Way]
+  NORMFLY 124909.51 133836.56 500.00 300.00 &0
+  NORMFLY 137394.65 133617.52 500.00 300.00 &0
+[RAF_No033SQN00]
+  Planes 1
+  Skill 1
+  Class air.HurricaneMkIa
+  Fuel 100
+  weapons default
+[RAF_No033SQN00_Way]
+  NORMFLY 273424.75 106610.22 500.00 300.00 &0
+  NORMFLY 259856.47 106447.06 500.00 300.00 &0
+[RAF_No112SQN00]
+  Planes 1
+  Skill 1
+  Class air.GLADIATOR2
+  Fuel 100
+  weapons default
+[RAF_No112SQN00_Way]
+  NORMFLY 273254.90 101291.45 500.00 300.00 &0
+  NORMFLY 259951.87 100871.24 500.00 300.00 &0
+[30thSqn00]
+  Planes 1
+  Skill 1
+  Class air.BLENHEIM1
+  Fuel 100
+  weapons default
+[30thSqn00_Way]
+  NORMFLY 301989.45 138828.78 500.00 300.00 &0
+  NORMFLY 287884.12 139144.57 500.00 300.00 &0
+[113Squadron00]
+  Planes 1
+  Skill 1
+  Class air.BLENHEIM4
+  Fuel 100
+  weapons default
+[113Squadron00_Way]
+  NORMFLY 302094.71 133986.65 500.00 300.00 &0
+  NORMFLY 288147.28 133881.39 500.00 300.00 &0
+[RAF_No073SQN00]
+  Planes 1
+  Skill 1
+  Class air.HurricaneMkIa
+  Fuel 100
+  weapons default
+[RAF_No073SQN00_Way]
+  NORMFLY 273785.33 95812.87 500.00 300.00 &0
+  NORMFLY 259272.33 96066.09 500.00 300.00 &0
+[Chiefs]
+  0_Chief Vehicles.USACarsColumnB 1
+  1_Chief Vehicles.USACarsColumnA 1
+  2_Chief Vehicles.USACarsColumnC 1
+  3_Chief Vehicles.GermanyCarsColumnC 2
+  4_Chief Vehicles.GermanyCarsColumnA 2
+  5_Chief Vehicles.GermanyCarsColumnB 2
+  6_Chief Armor.4-MatildaMkII_UK 1
+  7_Chief Armor.4-Vickers_mkEmodF 1
+  8_Chief Armor.4-CaroArmata_L640 2
+  9_Chief Armor.4-CaroArmata_1340 2
+[0_Chief_Road]
+  157140.61 83133.55 120.00 0 2 3.055555582046509
+  173783.08 83484.30 120.00
+[1_Chief_Road]
+  158695.73 76302.00 120.00 0 3 2.6388890743255615
+  173100.00 76300.00 120.00
+  173541.05 76695.98 120.00
+[2_Chief_Road]
+  156755.14 88408.27 120.00 0 2 2.6388890743255615
+  173163.30 89175.02 120.00
+[3_Chief_Road]
+  161412.34 44996.68 120.00 0 2 2.3611111640930176
+  183428.97 44549.29 120.00
+[4_Chief_Road]
+  159822.03 58198.89 120.00 0 2 2.6388890743255615
+  181137.34 58658.91 120.00
+[5_Chief_Road]
+  161712.58 41341.41 120.00 0 2 2.6388890743255615
+  184033.09 42093.26 120.00
+[6_Chief_Road]
+  156093.11 93020.52 120.00 0 2 2.0833334922790527
+  173002.69 93205.32 120.00
+[7_Chief_Road]
+  158178.05 80510.03 120.00 0 2 2.402777671813965
+  174011.41 80566.19 120.00
+[8_Chief_Road]
+  160620.80 48761.33 120.00 0 3 2.777777910232544
+  170300.00 49700.00 120.00
+  181965.38 49408.20 120.00
+[9_Chief_Road]
+  160343.70 53288.49 120.00 0 3 2.5
+  181300.00 53500.00 120.00
+  181779.95 53937.48 120.00
 [NStationary]
-  0_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 272619.77 106014.67 600.00 0.0 0 1 1
   1_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 272088.07 106232.19 585.00 0.0 0 1 1
   2_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 273610.08 106880.85 600.00 0.0 0 1 1
-  5_Static vehicles.stationary.Stationary$ZIS6_fuel 1 273237.27 106255.40 505.00 0.0
   4_Static vehicles.stationary.Stationary$ZIS6_fuel 1 273234.93 106260.86 505.00 0.0
   3_Static vehicles.artillery.Artillery$Bofors_40mm_UK 1 273827.63 106420.89 420.00 0.0 0 1 1
-  6_Static vehicles.planes.Plane$Wellington3 1 272639.07 105980.00 420.00 0.0 null 1 1.0 null 1
+  6_Static vehicles.planes.Plane$Wellington3 1 272639.07 105980.00 420.00 0.0 gb 1 1.0 null 1
+  7_Static vehicles.stationary.Stationary$ZIS6_fuel 1 272669.46 105984.62 415.00 0.0
+  8_Static vehicles.artillery.Artillery$Flak18_37mm 2 51432.58 203974.32 420.00 0.0 0 1 1
+  9_Static vehicles.artillery.Artillery$Flak18_37mm 2 51310.90 204189.76 600.00 0.0 0 1 1
+  10_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 51418.05 204034.51 420.00 0.0 0 1 1
+  0_Static vehicles.artillery.Artillery$_50calMG_water_US 1 272619.39 106015.48 600.00 0.0 0 1 1
+  5_Static vehicles.stationary.Stationary$ZIS6_fuel 1 273237.80 106255.63 505.00 0.0
+  12_Static vehicles.stationary.Stationary$OpelBlitz6700A_fuel 2 51354.72 204156.39 595.00 0.0
+  11_Static vehicles.stationary.Stationary$OpelBlitz6700A_fuel 2 51349.90 204153.71 520.00 0.0
+  13_Static vehicles.planes.Plane$CantZ506B 2 51350.40 204050.61 504.10 0.0 it 1 1.0 Silver_blue_lightning.bmp 1
+  14_Static vehicles.planes.Plane$CantZ506B 2 51368.65 204014.52 519.10 0.0 it 1 1.0 Silver_white_lightning.bmp 1
+  16_Static vehicles.planes.Plane$Wellington3 1 272803.75 106085.10 420.00 0.0 gb 1 1.0 null 1
+  15_Static vehicles.planes.Plane$Wellington3 1 273194.15 106231.00 420.00 0.0 gb 1 1.0 null 1
+  17_Static vehicles.planes.Plane$SM79i 2 4712.22 242348.42 420.00 0.0 it 1 1.0 null 1
+  18_Static vehicles.planes.Plane$SM79i 2 4798.35 242298.23 509.10 0.0 it 1 1.0 null 1
+  19_Static vehicles.planes.Plane$SM79i 2 4787.77 242343.96 495.00 0.0 it 1 1.0 null 1
+  20_Static vehicles.artillery.Artillery$Flak18_37mm 2 4867.98 242189.92 480.00 0.0 0 1 1
+  21_Static vehicles.artillery.Artillery$Flak18_37mm 2 4994.89 242129.62 480.00 0.0 0 1 1
+  22_Static vehicles.stationary.Stationary$OpelBlitz6700A_fuel 2 4725.00 242369.63 420.00 0.0
+  23_Static vehicles.stationary.Stationary$OpelBlitz6700A_fuel 2 4736.32 242372.35 450.00 0.0
+  24_Static vehicles.artillery.Artillery$Flak38_20mm 2 6236.78 241718.09 390.00 0.0 0 1 1
+  25_Static vehicles.stationary.Stationary$OpelBlitz6700A_fuel 2 4712.83 241952.16 420.00 0.0
+  26_Static ships.Ship$Tramp 2 130749.74 166763.08 380.84 0.0 0 2 1.0
+  27_Static ships.Ship$Tanker 2 130869.33 166764.84 650.84 0.0 0 2 1.0
+  28_Static vehicles.artillery.Artillery$Flak18_88mm 2 130195.61 167165.46 440.84 0.0 0 1 1
+  29_Static vehicles.artillery.Artillery$Flak18_37mm 2 131589.82 166583.13 470.84 0.0 0 1 1
+  30_Static vehicles.artillery.Artillery$Flak18_37mm 2 129843.46 166105.02 680.84 0.0 0 1 1
 [Buildings]
-  0_bld Plate$Pac_SandHardstandLarge 1 272797.26 105836.67 605.00
-  1_bld Plate$Pac_SandHardstandLarge 1 272844.06 105825.66 600.00
-  2_bld Plate$Pac_SandHardstandLarge 1 272901.86 105834.83 555.00
-  3_bld Plate$Pac_SandHardstandLarge 1 272951.41 105861.44 560.00
-  4_bld Plate$Pac_SandHardstandLarge 1 272991.32 105883.92 555.00
-  5_bld Plate$Pac_SandHardstandLarge 1 273034.71 105956.22 510.00
+  0_bld Plate$Pac_SandHardstandLarge 1 272802.18 105846.86 605.00
+  1_bld Plate$Pac_SandHardstandLarge 1 272850.21 105838.49 600.00
+  2_bld Plate$Pac_SandHardstandLarge 1 272891.85 105850.47 555.00
+  3_bld Plate$Pac_SandHardstandLarge 1 272946.49 105874.09 560.00
+  4_bld Plate$Pac_SandHardstandLarge 1 272987.81 105889.19 555.00
+  5_bld Plate$Pac_SandHardstandLarge 1 273030.67 105959.73 510.00
   6_bld House$FurnitureSandbags_Round 1 272619.07 106015.91 430.00
-  7_bld Plate$Pac_SandHardstandLarge 1 273046.62 105999.85 510.00
+  7_bld Plate$Pac_SandHardstandLarge 1 273039.77 106002.13 510.00
   8_bld House$Control_tower 1 272806.41 105957.83 420.00
   9_bld House$FurnitureSandbags_Round 1 272087.07 106232.71 400.00
   10_bld House$FurnitureSandbags_Round 1 273609.38 106882.09 430.00
@@ -82,5 +261,73 @@
   26_bld House$46GRBoxes 1 272817.93 105963.68 510.00
   27_bld House$Water_Tower 1 273196.70 106250.51 510.00
   28_bld House$BlastPen5sides 1 272636.31 105984.78 420.00
+  29_bld House$BlastPen5sides 1 272553.28 105977.58 420.00
+  30_bld House$BlastPen5sides 1 272547.34 105817.80 600.00
+  31_bld House$BlastPen5sides 1 272501.99 105951.83 435.00
+  32_bld House$BlastPen5sides 1 272624.41 105859.32 600.00
+  33_bld House$BlastPen5sides 1 272683.76 105894.78 600.00
+  34_bld House$BlastPen5sides 1 272428.60 105828.28 690.00
+  35_bld House$BlastPen5sides 1 272791.44 105818.09 645.00
+  36_bld House$BlastPen5sides 1 272907.81 105822.27 600.00
+  37_bld House$BlastPen5sides 1 272959.97 105844.36 600.00
+  38_bld House$BlastPen5sides 1 273001.56 105868.04 600.00
+  39_bld House$BlastPen5sides 1 273054.99 105950.96 555.00
+  40_bld House$BlastPen5sides 1 273065.77 105994.34 555.00
+  41_bld Plate$Pac_SandHardstandLarge 1 272666.07 105921.14 550.00
+  42_bld Plate$Pac_SandHardstandLarge 1 272607.74 105884.42 550.00
+  43_bld Plate$Pac_SandHardstandLarge 1 272530.52 105842.49 550.00
+  44_bld House$BlastPen5sides 1 272841.22 105805.53 645.00
+  45_bld House$shacks 1 51401.79 204064.23 420.00
+  46_bld House$FTankS_03 1 51385.65 204090.20 420.00
+  47_bld House$3Duby_Hangar_01 1 51366.57 204127.06 600.00
+  48_bld House$KitchenRU 1 51401.45 204049.89 405.00
+  49_bld House$AirdromeTank1 1 51398.68 204098.80 420.00
+  50_bld House$AirdromeTank1 1 51392.24 204095.35 420.00
+  51_bld House$Water_Tower 1 51414.55 204059.19 420.00
+  52_bld Plate$Pac_SandTaxi 1 51419.85 204019.16 420.00
+  53_bld Plate$Pac_SandTaxi 1 51399.92 204053.78 420.00
+  54_bld Plate$Pac_SandTaxi 1 51380.35 204088.08 420.00
+  55_bld Plate$Pac_SandTaxi 1 51360.68 204122.45 420.00
+  56_bld House$FurnitureSandbags_Round 1 51432.26 203974.87 600.00
+  57_bld Plate$Pac_SandTaxi 1 51439.54 203985.02 420.00
+  58_bld Plate$Pac_SandTaxi 1 51341.54 204156.25 420.00
+  59_bld House$FurnitureSandbags_Round 1 51311.16 204189.44 420.00
+  60_bld Plate$Pac_SandHardstandSmall 1 51427.60 203959.28 420.00
+  61_bld Plate$Pac_SandTaxiEnd 1 51295.20 204197.27 600.00
+  62_bld House$PortFloor 1 51393.12 204004.24 690.00
+  63_bld House$PortFloor 1 51398.10 203995.60 690.00
+  64_bld House$PortBaseSegment 1 51382.81 204001.85 690.00
+  65_bld House$PortBaseSegment 1 51375.24 203997.48 690.00
+  66_bld Plate$Pac_SandTaxiEnd 1 51396.53 203988.21 510.00
+  67_bld House$46BoxCoverMed 1 51391.82 204011.83 600.00
+  68_bld House$FurnitureSandbags_Round 1 51418.33 204034.29 600.00
+  69_bld House$Tent_Pup_US 1 51430.68 204052.83 600.00
+  70_bld House$Tent_Pup_US 1 51434.14 204054.82 600.00
+  71_bld House$Tent_Pup_US 1 51438.14 204057.11 600.00
+  72_bld House$Tent_Pup_US 1 51441.71 204059.62 585.00
+  73_bld House$Tent_Pyramid_US 1 51424.63 204049.92 600.00
+  74_bld House$Tent_HQ_US 1 51425.93 204059.24 420.00
+  75_bld House$Tent_HQ_US 1 4651.47 242312.34 360.00
+  76_bld House$Tent_Pyramid_US 1 4667.86 242313.31 450.00
+  77_bld House$Tent_Pup_US 1 4668.45 242318.33 360.00
+  78_bld House$Tent_Pup_US 1 4668.50 242322.97 360.00
+  79_bld House$Tent_Pup_US 1 4668.54 242327.44 360.00
+  80_bld House$Tent_Pup_US 1 4662.11 242331.18 450.00
+  81_bld House$Tent_Pup_US 1 4658.75 242331.18 450.00
+  82_bld House$Tent_Pup_US 1 4654.88 242331.22 450.00
+  83_bld House$Tent_Pup_US 1 4650.97 242331.14 450.00
+  84_bld House$KitchenDE 1 4645.92 242316.36 420.00
+  85_bld House$AirdromeTank1 1 4704.36 241967.68 475.10
+  86_bld House$AirdromeFuelTank 1 4720.24 241959.34 465.00
+  87_bld House$AirdromeTank1 1 4710.37 241964.55 473.84
+  88_bld House$AirdromeTank1 1 4699.63 241957.35 474.80
+  89_bld House$AirdromeTank1 1 4705.59 241954.85 476.09
+  90_bld House$Control_tower 1 4924.90 242171.59 653.62
+  91_bld House$FurnitureSandbags_Round 1 6236.95 241717.77 570.00
+  92_bld House$FurnitureSandbags_Round 1 130195.85 167164.35 629.85
+  93_bld House$FurnitureSandbags_Round 1 131589.78 166582.79 642.75
+  94_bld House$FurnitureSandbags_Round 1 129843.59 166105.14 500.84
+[StaticCamera]
+  51367 204089 100 0
 [Bridge]
 [House]
