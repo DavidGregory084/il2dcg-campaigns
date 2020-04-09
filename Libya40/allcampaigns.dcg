@@ -1,16 +1,16 @@
 [Libya40]
   Campaign=Western_Campaign
   Map=Tobruk
-  Date=11/12/1940
+  Date=07/12/1940
   Attacker=Red
   Front=Buq_Buq
   DeHome=Derna
   RuHome=Sidi_Barrani
   DeBase=Derna_Airfield
-  RuBase=Sidi_Barrani
-  Locale1=
-  Locale2=
-  Locale3=
+  RuBase=Sidi_Barrani_Airfield
+  Locale1=Sidi_Barrani
+  Locale2=Sidi_Barrani_Airfield
+  Locale3=Buq_Buq
   Locale4=
   Locale5=
   Locale6=
