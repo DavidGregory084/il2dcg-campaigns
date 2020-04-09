@@ -1,0 +1,13 @@
+.container {
+    height: 98vh;
+}
+
+.row, .col-sm, .card, textarea {
+    height: 100%;
+}
+
+.card.success {
+    --card-back-color: #32a852;
+    --card-fore-color: #f8f8f8;
+    --card-border-color: #216333;
+}

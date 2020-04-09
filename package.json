@@ -1,0 +1,27 @@
+{
+  "name": "il2dcg-campaigns",
+  "version": "1.0.0",
+  "description": "Campaign creation utilities for IL-2 1946 dynamic campaigns",
+  "main": "index.js",
+  "repository": "https://github.com/DavidGregory084/il2dcg-campaigns",
+  "author": "David Gregory <davidgregory084@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build-production": "parcel build index.html",
+    "clean": "rm -rf node_modules dist"
+  },
+  "dependencies": {
+    "app": "^0.1.0",
+    "app.css": "^0.1.2",
+    "mini.css": "^3.0.1",
+    "outdent": "^0.7.1",
+    "pegjs": "^0.10.0",
+    "ramda": "^0.27.0"
+  }
+}
