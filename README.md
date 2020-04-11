@@ -1,6 +1,6 @@
 # il2dcg-campaigns
 
-There is a utility for creating preview missions from .rds / .srd at the root of the repo:
+There is a utility for creating preview missions from .rds / .srd at the root of the repo.
 
 ### Requirements
 
