@@ -13,7 +13,7 @@ Header
   = "[" from:Location " to " to:Location "]" { return { from, to }; }
 
 Location
-  = location:[a-zA-Z0-9_]+ { return location.join(""); }
+  = location:[-a-zA-Z0-9_.&]+ { return location.join(""); }
 
 Waypoints
  = Whitespace waypoint:Waypoint { return waypoint };

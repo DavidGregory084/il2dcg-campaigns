@@ -57,7 +57,7 @@
   113Squadron00
   RAF_No073SQN00
 [11Squadriglia00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.SM79i
   Fuel 100
@@ -66,7 +66,7 @@
   NORMFLY 4718.66 237483.51 500.00 300.00 &0
   NORMFLY 17875.61 237549.23 500.00 300.00 &0
 [13Squadriglia00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.SM79i
   Fuel 100
@@ -84,7 +84,7 @@
   NORMFLY 50694.64 202990.24 500.00 300.00 &0
   NORMFLY 61956.27 203117.71 500.00 300.00 &0
 [159Squadriglia01]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.R_10
   Fuel 100
@@ -93,7 +93,7 @@
   NORMFLY 125146.57 140539.05 500.00 300.00 &0
   NORMFLY 138016.64 140775.28 500.00 300.00 &0
 [92Squadriglia00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.CR_42
   Fuel 100
@@ -102,7 +102,7 @@
   NORMFLY 125081.23 137427.87 500.00 300.00 &0
   NORMFLY 137788.13 137383.75 500.00 300.00 &0
 [93Squadriglia00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.CR_42
   Fuel 100
@@ -111,7 +111,7 @@
   NORMFLY 124909.51 133836.56 500.00 300.00 &0
   NORMFLY 137394.65 133617.52 500.00 300.00 &0
 [RAF_No033SQN00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.HurricaneMkIa
   Fuel 100
@@ -120,7 +120,7 @@
   NORMFLY 273424.75 106610.22 500.00 300.00 &0
   NORMFLY 259856.47 106447.06 500.00 300.00 &0
 [RAF_No112SQN00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.GLADIATOR2
   Fuel 100
@@ -129,7 +129,7 @@
   NORMFLY 273254.90 101291.45 500.00 300.00 &0
   NORMFLY 259951.87 100871.24 500.00 300.00 &0
 [30thSqn00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.BLENHEIM1
   Fuel 100
@@ -138,7 +138,7 @@
   NORMFLY 301708.71 153216.86 500.00 300.00 &0
   NORMFLY 288305.23 153462.47 500.00 300.00 &0
 [113Squadron00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.BLENHEIM4
   Fuel 100
@@ -147,7 +147,7 @@
   NORMFLY 301884.15 146198.97 500.00 300.00 &0
   NORMFLY 288217.47 146444.64 500.00 300.00 &0
 [RAF_No073SQN00]
-  Planes 1
+  Planes 4
   Skill 1
   Class air.HurricaneMkIa
   Fuel 100
